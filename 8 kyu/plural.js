@@ -4,4 +4,6 @@
 
 // All values will be positive integers or floats, or zero.
 
-plural = (n) => !(n === 1)
+// SOLUTION:
+
+plural = (n) => !(n === 1);
